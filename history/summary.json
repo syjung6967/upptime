@@ -4,19 +4,19 @@
     "url": "http://osdc.hanyang.ac.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/osdc.hanyang.ac.kr.ico",
     "slug": "osdc-main-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1612,
-    "timeDay": 1843,
-    "timeWeek": 1349,
-    "timeMonth": 1612,
-    "timeYear": 1612,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1622,
+    "timeDay": 1904,
+    "timeWeek": 1426,
+    "timeMonth": 1622,
+    "timeYear": 1622,
     "dailyMinutesDown": {
-      "2023-05-27": 0
+      "2023-05-27": 68
     }
   },
   {
