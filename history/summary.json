@@ -4,7 +4,7 @@
     "url": "http://osdc.hanyang.ac.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/osdc.hanyang.ac.kr.ico",
     "slug": "osdc-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1507,
     "timeYear": 1531,
     "dailyMinutesDown": {
+      "2025-03-16": 0,
       "2025-03-02": 179,
       "2025-03-01": 95,
       "2025-02-28": 24,
